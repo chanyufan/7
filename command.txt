@@ -1,0 +1,2 @@
+ssh-keygen -t rsa -C "1653932360@qq.com"
+git remote add github git@github.com:chenyufan/7.git
